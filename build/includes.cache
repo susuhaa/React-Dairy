@@ -1,0 +1,152 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/cores/esp8266"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/variants/nodemcu"
+  },
+  {
+    "Sourcefile": "/Users/soo/Desktop/UF/workspace/NODEMCU/build/sketch/sketch.ino.cpp",
+    "Include": "ESP8266WiFi.h",
+    "Includepath": "/Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/libraries/ESP8266WiFi/src"
+  },
+  {
+    "Sourcefile": "/Users/soo/Desktop/UF/workspace/NODEMCU/build/sketch/sketch.ino.cpp",
+    "Include": "MiniCom.h",
+    "Includepath": "/Users/soo/Documents/Arduino/libraries/MiniCom"
+  },
+  {
+    "Sourcefile": "/Users/soo/Desktop/UF/workspace/NODEMCU/build/sketch/sketch.ino.cpp",
+    "Include": "LiquidCrystal_I2C.h",
+    "Includepath": "/Users/soo/Documents/Arduino/libraries/LiquidCrystal_I2C"
+  },
+  {
+    "Sourcefile": "/Users/soo/Desktop/UF/workspace/NODEMCU/build/sketch/sketch.ino.cpp",
+    "Include": "Wire.h",
+    "Includepath": "/Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/libraries/Wire"
+  },
+  {
+    "Sourcefile": "/Users/soo/Desktop/UF/workspace/NODEMCU/build/sketch/sketch.ino.cpp",
+    "Include": "SimpleTimer.h",
+    "Includepath": "/Users/soo/Documents/Arduino/libraries/SimpleTimer"
+  },
+  {
+    "Sourcefile": "/Users/soo/Desktop/UF/workspace/NODEMCU/build/sketch/sketch.ino.cpp",
+    "Include": "Analog.h",
+    "Includepath": "/Users/soo/Documents/Arduino/libraries/Analog"
+  },
+  {
+    "Sourcefile": "/Users/soo/Desktop/UF/workspace/NODEMCU/build/sketch/sketch.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/libraries/ESP8266WiFi/src/BearSSLHelpers.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/libraries/ESP8266WiFi/src/CertStoreBearSSL.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/libraries/ESP8266WiFi/src/ESP8266WiFi.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/libraries/ESP8266WiFi/src/ESP8266WiFiAP.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/libraries/ESP8266WiFi/src/ESP8266WiFiGeneric.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/libraries/ESP8266WiFi/src/ESP8266WiFiGratuitous.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/libraries/ESP8266WiFi/src/ESP8266WiFiMulti.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/libraries/ESP8266WiFi/src/ESP8266WiFiSTA-WPS.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/libraries/ESP8266WiFi/src/ESP8266WiFiSTA.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/libraries/ESP8266WiFi/src/ESP8266WiFiScan.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/libraries/ESP8266WiFi/src/WiFiClient.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/libraries/ESP8266WiFi/src/WiFiClientSecureBearSSL.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/libraries/ESP8266WiFi/src/WiFiServer.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/libraries/ESP8266WiFi/src/WiFiServerSecureBearSSL.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/libraries/ESP8266WiFi/src/WiFiUdp.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/libraries/ESP8266WiFi/src/enable_wifi_at_boot_time.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/soo/Documents/Arduino/libraries/MiniCom/MiniCom.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/soo/Documents/Arduino/libraries/LiquidCrystal_I2C/LiquidCrystal_I2C.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/libraries/Wire/Wire.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/soo/Documents/Arduino/libraries/SimpleTimer/SimpleTimer.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/soo/Documents/Arduino/libraries/Analog/Analog.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
