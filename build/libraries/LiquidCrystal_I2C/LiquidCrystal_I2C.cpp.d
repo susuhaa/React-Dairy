@@ -1,4 +1,4 @@
-/Users/soo/Desktop/UF/workspace/NODEMCU/build/libraries/LiquidCrystal_I2C/LiquidCrystal_I2C.cpp.o: \
+/Users/soo/Desktop/UF/workspace/NODEMCU\ copy/build/libraries/LiquidCrystal_I2C/LiquidCrystal_I2C.cpp.o: \
  /Users/soo/Documents/Arduino/libraries/LiquidCrystal_I2C/LiquidCrystal_I2C.cpp \
  /Users/soo/Documents/Arduino/libraries/LiquidCrystal_I2C/LiquidCrystal_I2C.h \
  /Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/cores/esp8266/Print.h \

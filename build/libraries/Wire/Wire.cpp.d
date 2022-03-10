@@ -1,4 +1,4 @@
-/Users/soo/Desktop/UF/workspace/NODEMCU/build/libraries/Wire/Wire.cpp.o: \
+/Users/soo/Desktop/UF/workspace/NODEMCU\ copy/build/libraries/Wire/Wire.cpp.o: \
  /Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/libraries/Wire/Wire.cpp \
  /Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/cores/esp8266/twi.h \
  /Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/cores/esp8266/Arduino.h \

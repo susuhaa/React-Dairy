@@ -1,4 +1,4 @@
-/Users/soo/Desktop/UF/workspace/NODEMCU/build/libraries/SimpleTimer/SimpleTimer.cpp.o: \
+/Users/soo/Desktop/UF/workspace/NODEMCU\ copy/build/libraries/SimpleTimer/SimpleTimer.cpp.o: \
  /Users/soo/Documents/Arduino/libraries/SimpleTimer/SimpleTimer.cpp \
  /Users/soo/Documents/Arduino/libraries/SimpleTimer/SimpleTimer.h \
  /Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/cores/esp8266/Arduino.h \

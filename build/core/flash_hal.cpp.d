@@ -1,4 +1,4 @@
-/Users/soo/Desktop/UF/workspace/NODEMCU/build/core/flash_hal.cpp.o: \
+/Users/soo/Desktop/UF/workspace/NODEMCU\ copy/build/core/flash_hal.cpp.o: \
  /Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/cores/esp8266/flash_hal.cpp \
  /Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/cores/esp8266/Arduino.h \
  /Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/cores/esp8266/stdlib_noniso.h \

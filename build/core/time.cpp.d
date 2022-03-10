@@ -1,4 +1,4 @@
-/Users/soo/Desktop/UF/workspace/NODEMCU/build/core/time.cpp.o: \
+/Users/soo/Desktop/UF/workspace/NODEMCU\ copy/build/core/time.cpp.o: \
  /Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/cores/esp8266/time.cpp \
  /Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/tools/sdk/include/sntp.h \
  /Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/tools/sdk/include/os_type.h \

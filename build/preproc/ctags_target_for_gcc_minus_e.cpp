@@ -1,6 +1,6 @@
-# 1 "/Users/soo/Desktop/UF/workspace/NODEMCU/ex01/sketch.ino"
-# 2 "/Users/soo/Desktop/UF/workspace/NODEMCU/ex01/sketch.ino" 2
-# 3 "/Users/soo/Desktop/UF/workspace/NODEMCU/ex01/sketch.ino" 2
+# 1 "/Users/soo/Desktop/UF/workspace/NODEMCU copy/ex01/sketch.ino"
+# 2 "/Users/soo/Desktop/UF/workspace/NODEMCU copy/ex01/sketch.ino" 2
+# 3 "/Users/soo/Desktop/UF/workspace/NODEMCU copy/ex01/sketch.ino" 2
 
 const char *ssid = "SK_WiFiGIGA2347";
 const char *password = "2006036591";

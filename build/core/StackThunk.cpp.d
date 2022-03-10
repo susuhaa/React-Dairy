@@ -1,4 +1,4 @@
-/Users/soo/Desktop/UF/workspace/NODEMCU/build/core/StackThunk.cpp.o: \
+/Users/soo/Desktop/UF/workspace/NODEMCU\ copy/build/core/StackThunk.cpp.o: \
  /Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/cores/esp8266/StackThunk.cpp \
  /Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/cores/esp8266/pgmspace.h \
  /Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/tools/sdk/include/ets_sys.h \

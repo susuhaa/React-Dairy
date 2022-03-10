@@ -1,4 +1,4 @@
-/Users/soo/Desktop/UF/workspace/NODEMCU/build/libraries/ESP8266WiFi/ESP8266WiFiGratuitous.cpp.o: \
+/Users/soo/Desktop/UF/workspace/NODEMCU\ copy/build/libraries/ESP8266WiFi/ESP8266WiFiGratuitous.cpp.o: \
  /Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/libraries/ESP8266WiFi/src/ESP8266WiFiGratuitous.cpp \
  /Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/tools/sdk/lwip2/include/lwip/etharp.h \
  /Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/tools/sdk/lwip2/include/lwip/opt.h \

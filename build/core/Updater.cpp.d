@@ -1,4 +1,4 @@
-/Users/soo/Desktop/UF/workspace/NODEMCU/build/core/Updater.cpp.o: \
+/Users/soo/Desktop/UF/workspace/NODEMCU\ copy/build/core/Updater.cpp.o: \
  /Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/cores/esp8266/Updater.cpp \
  /Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/cores/esp8266/Updater.h \
  /Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/cores/esp8266/Arduino.h \
@@ -48,7 +48,7 @@
  /Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/cores/esp8266/eboot_command.h \
  /Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/cores/esp8266/esp8266_peri.h \
  /Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/cores/esp8266/StackThunk.h \
- /Users/soo/Desktop/UF/workspace/NODEMCU/build/core/Updater_Signing.h \
+ /Users/soo/Desktop/UF/workspace/NODEMCU\ copy/build/core/Updater_Signing.h \
  /Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/tools/sdk/include/user_interface.h \
  /Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/tools/sdk/include/os_type.h \
  /Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/tools/sdk/include/ets_sys.h \

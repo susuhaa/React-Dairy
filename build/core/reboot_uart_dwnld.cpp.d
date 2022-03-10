@@ -1,4 +1,4 @@
-/Users/soo/Desktop/UF/workspace/NODEMCU/build/core/reboot_uart_dwnld.cpp.o: \
+/Users/soo/Desktop/UF/workspace/NODEMCU\ copy/build/core/reboot_uart_dwnld.cpp.o: \
  /Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/cores/esp8266/reboot_uart_dwnld.cpp \
  /Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/cores/esp8266/reboot_uart_dwnld.h \
  /Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/tools/sdk/include/user_interface.h \

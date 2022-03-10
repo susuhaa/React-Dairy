@@ -1,4 +1,4 @@
-/Users/soo/Desktop/UF/workspace/NODEMCU/build/libraries/MiniCom/MiniCom.cpp.o: \
+/Users/soo/Desktop/UF/workspace/NODEMCU\ copy/build/libraries/MiniCom/MiniCom.cpp.o: \
  /Users/soo/Documents/Arduino/libraries/MiniCom/MiniCom.cpp \
  /Users/soo/Documents/Arduino/libraries/MiniCom/MiniCom.h \
  /Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/cores/esp8266/Arduino.h \

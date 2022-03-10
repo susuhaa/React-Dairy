@@ -1,5 +1,5 @@
-/Users/soo/Desktop/UF/workspace/NODEMCU/build/sketch/sketch.ino.cpp.o: \
- /Users/soo/Desktop/UF/workspace/NODEMCU/build/sketch/sketch.ino.cpp \
+/Users/soo/Desktop/UF/workspace/NODEMCU\ copy/build/sketch/sketch.ino.cpp.o: \
+ /Users/soo/Desktop/UF/workspace/NODEMCU\ copy/build/sketch/sketch.ino.cpp \
  /Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/cores/esp8266/Arduino.h \
  /Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/cores/esp8266/stdlib_noniso.h \
  /Users/soo/Library/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/cores/esp8266/binary.h \
