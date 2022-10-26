@@ -1,37 +1,36 @@
 import Myheader from './Myheader';
+import Counter from './counter';
+import Container from './Container';
+
+
 // import './App.css';
 // 인라인 스타일 방식
 
 import React from "react";
 
 function App() {
-   let name = "soo";  
-
-
-  const style = {
-    App: {
-      backgroundColor: "black",
-    },
-    h2: {
-    color: "red",
-    },
-    bold_text: {
-    color: "green",
-    },
-
-  };
-
+   
   const number = 5;
 
+const counterProps ={
+  a:1,
+  b:2,
+  c:3,
+  d:4,
+  e:5,
+  initialValue : 5,
+}
+
+
   return (
-   
-    <div style={style.App}>
+   <Container>
+    <div>
       <Myheader/>
-        <h2 style={style.h2}> 안녕 리액트{name} </h2>
-       <b style = {style.bold_text} id = "bold_text">
-      {number}는 : {number % 2 === 0 ? "짝수" : "홀수"}
-      </b>
+      <Counter {...counterProps} />
+ 
+  {/* app 컴퍼넌트의 자식 */}
     </div>
+    </Container>
    
   );
 }
