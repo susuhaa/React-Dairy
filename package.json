@@ -1,0 +1,51 @@
+{
+  
+  "name": "package-example1",
+  
+  "version": "1.0.0",
+  
+  "description": "안녕하세요",
+  
+  "main": "index.js",
+  
+  "scripts": {
+  
+    
+  "test": "echo \"Error: no test specified\" && exit 1",
+  
+    
+  "start": "node index.js"
+  
+  },
+  
+  "repository": {
+  
+    
+  "type": "git",
+  
+    
+  "url": "git+https://github.com/susuhaa/Github.git"
+  
+  },
+  
+  "author": "soo",
+  
+  "license": "ISC",
+  
+  "bugs": {
+  
+    
+  "url": "https://github.com/susuhaa/Github/issues"
+  
+  },
+  
+  "homepage": "https://github.com/susuhaa/Github#readme",
+  
+  "dependencies": {
+  
+    
+  "randomcolor": "^0.6.2"
+  
+  }
+}
+
