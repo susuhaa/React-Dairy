@@ -6,11 +6,11 @@ const DairyEditor = () => {
     const contentInput = useRef();
     // mutablerefobject -> html dom요소 접근 기능
   
-    const[state, setState] = useState({
-            author: "",
-            content: "",
-            emotion: 1,
-    });
+    // const[state, setState] = useState({
+    //         author: "",
+    //         content: "",
+    //         emotion: 1,
+    // });
 
 
     // 핸들러 합치기 
@@ -39,10 +39,19 @@ const DairyEditor = () => {
             contentInput.current.focus();
             return;
         }
-        console.log(state);
-        alert("저장성공");
-    };
+   
 
+        onCreate(state.author,state.content, state.emotion);
+        alert("저장 성공");
+        setState({
+            
+            author: "",
+            content: "",
+            emotion: 1,
+              
+       
+        });
+    };
     return( 
 
     <div className = "DairyEditor">

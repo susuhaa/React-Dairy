@@ -2,29 +2,27 @@ import './App.css';
 import DairyEditor from './DairyEditor';
 import DairyList from './DairyList';
 
-const dummyList = [
-  {
-    id:1,
-    author: "수",
-    content: "하이",
-    emotion: 5,
-    create_date: new Date().getTime() // 시간 객체 // 현재 시간을 기준
-  },
-  {
-    id:2,
-    author: "루",
-    content: "하이",
-    emotion: 1,
-    create_date: new Date().getTime() // 시간 객체 // 현재 시간을 기준
-  },
 
-]
 
 function App() {
+
+  const[data, setData] = useState([]);
+  const onCreate = (author, content, emotion) => {
+    const created_data = new Date().getTime();
+    const newItem = {
+      author,
+      content,
+      emotion,
+      created_date,
+      id : DOMMatrixReadOnly.current
+
+    }
+    DOMMatrixReadOnly.current +=1;
+  };
   return (
     <div className="App"> 
-    <DairyEditor/>
-    <DairyList dairyList = {dummyList} />
+    <DairyEditor on Crate={onCreate}/>
+    <DairyList dairyList = {[]} />
     </div>
   );
 }
