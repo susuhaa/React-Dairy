@@ -2,6 +2,7 @@ import './App.css';
 import DairyEditor from './DairyEditor';
 import DairyList from './DairyList';
 import { useRef,useState } from "react";
+import Lifecycle from './Lifecycle';
 
 
 
@@ -41,6 +42,7 @@ function App() {
 
   return (
     <div className="App"> 
+    <Lifecycle/>
     <DairyEditor onCreate={onCreate}/>
     <DairyList onEdit = {onEdit} onRemove={onRemove} dairyList = {data} />
     </div>
