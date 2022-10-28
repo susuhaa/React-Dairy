@@ -1,16 +1,18 @@
 import { useRef,useState } from "react";
 
-const DairyEditor = () => {
+const DairyEditor = ({onCreate}) => {
+
+    const[state, setState] = useState({
+            author: "",
+            content: "",
+            emotion: 1,
+    });
 
     const authorInput = useRef();
     const contentInput = useRef();
     // mutablerefobject -> html dom요소 접근 기능
   
-    // const[state, setState] = useState({
-    //         author: "",
-    //         content: "",
-    //         emotion: 1,
-    // });
+    
 
 
     // 핸들러 합치기 
@@ -26,8 +28,8 @@ const DairyEditor = () => {
     // 글자 경고창
     const handleSubmit = () => {
         if(state.author.length <1){
-            alert("작성자는 최소 1글자 이상 입력해주세요");
-            //focus
+            // alert("작성자는 최소 1글자 이상 입력해주세요");
+            //작성자 input
         authorInput.current.focus();
         
             return;
@@ -38,11 +40,12 @@ const DairyEditor = () => {
             // foucus
             contentInput.current.focus();
             return;
-        }
+        };
    
 
-        onCreate(state.author,state.content, state.emotion);
+      onCreate (state.author,state.content, state.emotion);
         alert("저장 성공");
+
         setState({
             
             author: "",
@@ -62,6 +65,8 @@ const DairyEditor = () => {
                 name = "author"
                 value ={state.author}
                 onChange = {handleChangeState}
+                placeholder = "작성자"
+                type = "text"
                 />
          </div>
 
@@ -71,11 +76,13 @@ const DairyEditor = () => {
                 name = "content"
                 value = {state.content} 
                 onChange = {handleChangeState}
+                placeholder="일기"
+                type="text"
                 />
          </div>
 
 <div>
-  
+  <span> 오늘의 감정점수 : </span>
         <select 
         name = "emotion"
         value={state.emotion}
